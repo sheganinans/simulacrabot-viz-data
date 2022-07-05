@@ -1,0 +1,2 @@
+vecs.json filter=lfs diff=lfs merge=lfs -text
+vecs.txt filter=lfs diff=lfs merge=lfs -text
