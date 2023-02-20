@@ -1,5 +1,7 @@
 # SimulacraBot Viz Data Site
 
+![](./artstation.png)
+
 Here are a list of current visualizations:
 
 [TSNE](./tsne_2d_pp30.html)
